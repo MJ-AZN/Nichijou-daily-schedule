@@ -25,6 +25,3 @@ MIT
 HTML, CSS, Javascript & Jquery
 
 ## Link to deployed site
-
-
-
