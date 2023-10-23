@@ -2,7 +2,7 @@
 
 ## Description
 
-A work day scheduler application to keep track of your daily tasks during the typical work day hours.
+An application to help schedule your day-to-day life!
 
 # Installtion
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To dynamically keep track of your daily tasks. Whether it's for work or personal.
+Keep track of tasks you may have during the day.
 
 ## Credits
 
